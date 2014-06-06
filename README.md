@@ -1,6 +1,6 @@
 # SuchDogeVeryWow
 
-TODO: Write a gem description
+Ruby gem to parse DSON (Doge Serialized Object Notation)
 
 ## Installation
 
