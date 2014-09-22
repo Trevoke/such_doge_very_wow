@@ -1,6 +1,6 @@
 # SuchDogeVeryWow
 
-Ruby gem to parse [DSON](http://dogeon.org/) (Doge Serialized Object Notation)
+Ruby gem to parse [DOGEON](http://dogeon.org/) (Doge Serialized Object Notation)
 
 ## Installation
 
